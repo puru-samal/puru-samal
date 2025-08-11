@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Puru
-- 📚 I'm pursuing my MS in Music and Technology at Carnegie Mellon University 
+- 📚 I'm pursuing my MS in Music and Technology/Computer Science at Carnegie Mellon University 
 - 👀 I’m interested in Sound and Music Computing
 - 🌱 I’m currently learning Signal Processing, Computer Systems and Machine Learning
 - 💞️ I’m looking to collaborate on any project related to my interests
